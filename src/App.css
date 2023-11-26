@@ -1,0 +1,18 @@
+.pic{
+    background-image: url("https://img.freepik.com/free-photo/black-friday-elements-assortment_23-2149074076.jpg");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .pic2{
+    background-image: url("https://img.freepik.com/premium-vector/background-with-colorful-shopping-bags-vector-illustration-sale-discount-concept_653240-59.jpg");
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .pic3{
+      background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2rG4eXP8mqJDqUjC1JfxJEjw0Fu3ybRFhmA&usqp=CAU");
+      min-height: 100vh;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
