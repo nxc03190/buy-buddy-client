@@ -1,5 +1,5 @@
 //const endPoint = 'http://localhost:3100/'
-const endPoint = 'https://buybuddyrestapi.azurewebsites.net:80/'
+const endPoint = 'https://buybuddyrestapi.azurewebsites.net/'
 
 exports.endPointUReg = endPoint+'uerReg/';
 exports.endPointULogin = endPoint+'uLogin/';
